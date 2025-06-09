@@ -5,7 +5,7 @@ public class Test{
     }
     public int getCount;
 
-
+//int method
     public String getName;
 
 }
